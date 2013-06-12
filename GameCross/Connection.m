@@ -1,8 +1,8 @@
 #import "Connection.h"
 
-//static NSString *IP = @"http://mackarous.dyndns.org:8181/social/";
-//static NSString *IP = @"http://localhost:8181/social/";
-static NSString *IP = @"http://172.17.141.166:8181/social/";
+//static NSString *IP = @"http://mackarous.dyndns.org:59999/social/";
+//static NSString *IP = @"http://localhost:59999/social/";
+static NSString *IP = @"http://172.17.141.166:59999/social/";
 
 @implementation Connection
 
